@@ -20,3 +20,8 @@ Analysed the **2014 Inc. 5000 dataset** using Tableau to explore company growth 
 
 - Industries such as **IT & Services** saw the highest growth.
 - Growth trends varied significantly by state (e.g., California, Texas).
+
+## 📂Files
+-house-price-prediction.ipynb : Full analysis notebook
+
+-Data : 2014 Inc 5000 dataset used
